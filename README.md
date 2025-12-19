@@ -50,5 +50,5 @@
 
 
 ## 프로세스 플로우
-<img width="1042" height="371" alt="07_프로세스_플로우" src="https://github.com/user-attachments/assets/c21dbd8d-bd59-4a53-aec2-a03a7c182d6f" />
+<img width="5391" height="1908" alt="Image" src="https://github.com/user-attachments/assets/a2ac869c-c35d-4255-b1bb-553b44829f7d" />
 
